@@ -1,0 +1,9 @@
+2.	Description de l'Entreprise
+2.1.	Historique et Contexte :
+Fondée en décembre 2023, Elle tire sa révérence grâce à la décision de l’entreprise CFAO Technologies de sursoir aux activités informatiques pour se recentrer vers les technologies et solutions liées aux énergies renouvelables. Cette décision a contraint CFAO Technologies de mettre un terme aux contrats de toutes les ressources du département Ingénierie et Architecture des solutions Informatiques. Ayant une parfaite maitrise du marché et possédant toutes les compétences des solutions d’intégration d’infrastructure et de sécurité Informatiques, Nous avons pris la décision et l’engagement de nous mettre ensemble autour d’un objectif et une vision commune à poursuivre toutes les activités informatiques fournit autrefois par CFAO Technologies afin d’assurer une continuité des prestations auprès de ces clients et ceux à venir tout en leur garantissant la poursuite du support, notre disponibilité, notre engagement et un accompagnement sans faille. 
+Nous mettrons en avant la satisfaction du client au cœur de notre stratégie.
+Notre parcours est jalonné de projets réussis dans l’ancienne entité, allant de la conception de systèmes complexes à la mise en œuvre de solutions logicielles novatrices.
+2.2.	Proposition de valeur :
+Ce qui nous distingue chez ENGITAS, c'est notre engagement envers l'excellence technique et notre capacité à résoudre des défis complexes. En combinant une expertise approfondie avec une approche collaborative, nous offrons des solutions personnalisées qui dépassent les attentes de nos clients.
+2.3.	Marché Cible :
+Nous ciblons les entreprises petites, de taille moyenne à grande échelle, dans des secteurs tels que la Finance, la Santé, la Logistique, les Organismes, les Corporates et les Administrations Parapublics sous fond propres, cherchant à optimiser leurs opérations et à rester à la pointe de l'innovation technologique.
